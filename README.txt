@@ -9,11 +9,7 @@ Steps :
 
 in Running automation folder tests process case :
 
-- BuyProductTests
-- CartTests
-- LoginPageTests
-- SidebarTests
-- SortTests
+- BuyProductTests 
 
 for Running automtion right click in specific testsuite in folder tests
 
